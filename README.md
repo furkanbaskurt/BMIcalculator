@@ -1,4 +1,4 @@
-Calculation of Body Mass Index.
+CALCULATION OF BODY MASS INDEX
 
 Please enter your weight in KG and your height in cm.
 
